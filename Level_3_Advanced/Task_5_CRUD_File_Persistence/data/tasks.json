@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Configure Maven POM",
+    "description": "Add Google Gson dependency for JSON file persistence.",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "createdAt": "2026-11-12 09:20"
+  },
+  {
+    "id": 2,
+    "title": "Implement TaskStorage",
+    "description": "Implement JSON read/write routines and corruption backups.",
+    "priority": "HIGH",
+    "status": "COMPLETED",
+    "createdAt": "2026-11-12 09:20"
+  },
+  {
+    "id": 3,
+    "title": "Verify Session Persistence",
+    "description": "Restart application and ensure all tasks remain loaded.",
+    "priority": "MEDIUM",
+    "status": "IN_PROGRESS",
+    "createdAt": "2026-11-12 09:20"
+  }
+]
